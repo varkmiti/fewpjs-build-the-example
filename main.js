@@ -4,6 +4,9 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
+EMPTY_HEART.on('click', mimicServerCall()) =="Random server error. Try again."
+
+
 
 
 
